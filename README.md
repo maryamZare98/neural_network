@@ -58,7 +58,6 @@ also receives input from a "unit" whose signal is always + 1, in order for the b
 weight to be trained by the same process (the delta rule) as is used to train the
 other weights.
 
-![adaline](https://i2.wp.com/www.mlopt.com/wp-content/uploads/2016/06/Figure2.png?resize=445%2C320)
 
 ## Algorithm:
 
